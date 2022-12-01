@@ -33,6 +33,13 @@ section{
 section:nth-child(even){
     background: #f5f5f5;
 }
+.ppp{
+    font-weight: bold;
+ 
+}
+.ppp a{
+    font-size: 25px;
+}
 
 .heading{
     text-align: center;
